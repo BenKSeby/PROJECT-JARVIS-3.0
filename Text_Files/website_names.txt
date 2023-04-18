@@ -1,0 +1,21 @@
+AMAZON,https://www.amazon.com
+WHATSAPP,https://web.whatsapp.com
+GITHUB,https://www.github.com
+YOUTUBE,https://www.youtube.com
+VIRUS TOTAL,https://www.virustotal.com
+GOOGLE,https://www.google.com
+BING,https://www.bing.com
+SPOTIFY,https://open.spotify.com
+PYPI,https://www.pypi.org
+EBAY,https://www.ebay.com
+NVIDIA,https://www.nvidia.com/en-in
+INTEL,https://www.intel.in
+AMD,https://www.amd.com/en
+WIKIPEDIA,https://en.wikipedia.org
+MICROSOFT,https://www.microsoft.com/en-in
+APPLE,https://www.apple.com/in
+TWITTER,https://twitter.com
+GMAIL,https://mail.google.com
+G-CHAT,https://chat.google.com
+STACK OVERFLOW,https://stackoverflow.com
+G-MEET,https://meet.google.com
