@@ -9,7 +9,7 @@ class Google():
 
     def google_search(self, query):
         self.driver.get(url="https://www.google.com")
-        search1 = self.driver.find_element("xpath", '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input')
+        search1 = self.driver.find_element("xpath", '/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/textarea')
         search1.click()
         search1.send_keys(query)
        # submit1 = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/form/div[1]/div[1]/div[2]/div[2]/div[2]/ul[1]/div/ul/li[1]/div/div[2]')
